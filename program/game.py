@@ -11,4 +11,3 @@ class World:
 
   def UpdateWorld(self):
     #Обновление мира
-
